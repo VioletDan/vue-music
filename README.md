@@ -3,7 +3,7 @@
 ## Clone it
 
 ```bash
-$ git clone https://github.com/zce/music-player.git -b vue --depth 1
+$ git clone git@github.com:VioletDan/vue-music.git
 $ cd music-player
 ```
 
