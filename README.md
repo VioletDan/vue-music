@@ -3,7 +3,7 @@
 ## Clone it
 
 ```bash
-$ git clone git@github.com:VioletDan/vue-music.git
+$ git clone git@github.com:VioletDan/vue-music.git music-player
 $ cd music-player
 ```
 
